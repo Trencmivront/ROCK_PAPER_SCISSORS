@@ -27,7 +27,7 @@ int main()
     
     if(select_b == select_p)
        
-        printf("DRAW!!");
+        printf("\nDRAW!!");
     
     else if(select_p == 1 && select_b == 2)
         
